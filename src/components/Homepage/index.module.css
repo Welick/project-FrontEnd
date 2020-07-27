@@ -1,0 +1,26 @@
+.main-div {
+    height: 665px;
+    background-image: url("https://smurf.shop/wp-content/uploads/2018/12/Project-Ashe-smurf.shop_.jpg");
+    background-size: 1600px 665px;
+}
+
+.header {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.small-header {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    letter-spacing: 2px;
+}
+
+.link {
+    text-align: center;
+}

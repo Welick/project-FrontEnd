@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  height: 40px;
+  padding-bottom: 50px;
+  bottom: 0;
+  background-color: #343a40;
+  color: white;
+}
+
+.link {
+  color: white;
+}
+
+.link:hover {
+  text-decoration: none;
+}
